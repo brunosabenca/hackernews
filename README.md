@@ -1,6 +1,6 @@
 # Hacker News
 
-> Displays content from [Hacker News](htt  ps://news.ycombinator.com).
+> Displays content from [Hacker News](https://news.ycombinator.com).
 
 Made by following this lesson: [Start a Nuxt Project with npx and the Vue.js CLI](https://egghead.io/lessons/start-a-nuxt-project-with-npx-and-the-vue-js-cli)
 
